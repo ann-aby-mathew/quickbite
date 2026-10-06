@@ -1,0 +1,50 @@
+Customer 
+  •	Login/signup
+  •	Filter resturants 
+  •	Make order
+  •	View restaurant 
+  •	Ratings and Reviews [Shalvin]
+  •	View menu 
+  •	Payment options
+  •	Offers and coupons 
+  •	Track order 
+  •	Recommendations 
+  •	Subscription and credit points [Ebin]
+  •	Dine in features
+  •	Notification management
+  •	Subscription diet management 
+  •	Order customization
+  •	Help module
+  •	List based item check in 
+  •	Eat-right healthy module [Ann]
+
+Restaurants 
+  •	Login/signup
+  •	view order 
+  •	View Ratings and Reviews
+  •	add menu 
+  •	view earnings  [Navneeth]
+  •	update open/closed status 
+  •	edit availability of food
+  •	update order track
+  •	track delivery
+  •	manage and add coupons 
+  •	view dine in list [Aravind]
+
+delivery boy
+  •	Login/signup
+  •	View orders
+  •	Accept/reject orders
+  •	Working status update
+  •	Message/call customers
+  •	View earnings [Shreya]
+
+Admin-swathy
+  •	Login/signup
+  •	Manage payment
+  •	View customers and restaurants
+  •	View commission rate
+  •	Manage complaints
+
+
+
